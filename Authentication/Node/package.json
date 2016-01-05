@@ -1,0 +1,13 @@
+{
+  "name": "authenticate-scrape",
+  "version": "0.0.1",
+  "description": "Authenticate into GitHub",
+  "main": "authenticate.js",
+  "author": "Daniel",
+  "dependencies": {
+    "request": "latest",
+    "cheerio": "latest",
+  },
+  "devDependencies": {
+  }
+}

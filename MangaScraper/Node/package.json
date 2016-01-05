@@ -1,0 +1,15 @@
+{
+  "name": "manga-scrape",
+  "version": "0.0.1",
+  "description": "Manga Scrape.",
+  "main": "mangaScrape.js",
+  "author": "Daniel",
+  "dependencies": {
+    "request": "latest",
+    "cheerio": "latest",
+	"mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
